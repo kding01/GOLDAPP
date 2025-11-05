@@ -10,6 +10,13 @@
   line-height:normal;
   text-transform:none;
 }
+._形状 {
+}
+._图片 {
+}
+.link_button {
+  color:#1E98D7;
+}
 ._一级标题 {
   font-family:"ArialMT", "Arial", sans-serif;
   font-weight:bold;
@@ -51,8 +58,14 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:13px;
+  text-align:left;
+}
 ._段落 {
   text-align:left;
+}
+.line {
 }
 ._表单提示文本 {
   color:#999999;
@@ -61,7 +74,10 @@
 }
 ._流程图形状 {
 }
-._形状 {
+._连接线 {
+}
+.sticky_2 {
+  text-align:left;
 }
 .text_field {
   color:#000000;
@@ -72,36 +88,14 @@
 }
 .form_disabled {
 }
-.label {
-  font-size:13px;
-  text-align:left;
-}
 .icon {
 }
 .primary_button {
   color:#FFFFFF;
 }
-._图片 {
-}
-.link_button {
-  color:#1E98D7;
-}
 .box_1 {
 }
-.box_11 {
-}
-.box_12 {
-}
 .ellipse {
-}
-.text_field1 {
-  color:#000000;
-  text-align:left;
-}
-.form_hint1 {
-  color:#999999;
-}
-.form_disabled1 {
 }
 .text_area {
   color:#000000;
@@ -115,5 +109,18 @@
 .shape {
 }
 .box_2 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.form_hint1 {
+  color:#999999;
+}
+.form_disabled1 {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
